@@ -1,9 +1,9 @@
-coc/
-configstore/
-dmenu-scripts/
-fish/
-htop/
-iterm2/
-rstudio/
-spicetify/
+/coc/
+/configstore/
+/dmenu-scripts/
+/fish/
+/htop/
+/iterm2/
+/rstudio/
+/spicetify/
 /.DS_Store
